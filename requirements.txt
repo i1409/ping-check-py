@@ -1,1 +1,5 @@
 pythonping
+python-dotenv==0.17.1
+schedule
+python-telegram-bot
+mysql-connector-python
